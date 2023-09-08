@@ -1,0 +1,7 @@
+{
+  "name": "MalidevAgence",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
